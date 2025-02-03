@@ -2,6 +2,8 @@
 
 This project scrapes research papers and metadata from the NeurIPS (Neural Information Processing Systems) conference website. It provides two implementations: **Python** and **Java**. The Python version includes a Streamlit-based interactive web app for easy use.
 
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/ee719d13-96fc-4051-b24a-995c17adfce8" />
+
 ## Features
 
 - **Download Papers**: Download PDFs of NeurIPS papers by year or specific URLs.
