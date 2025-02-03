@@ -10,6 +10,8 @@ This project scrapes research papers and metadata from the NeurIPS (Neural Infor
 - **Extract Metadata**: Fetch metadata such as paper titles, authors, and Bibtex information.
 - **Interactive Interface**: A Streamlit app for Python to interactively download papers and view metadata.
 
+<img width="1426" alt="image" src="https://github.com/user-attachments/assets/dbdf594f-1a85-4da2-984d-a71df265760f" />
+
 ## Prerequisites
 
 ### Python
@@ -39,7 +41,9 @@ streamlit run neurlPS_webScraping_streamlit.py
     - Download all papers (1987–2023).
     - Download a specific paper by URL.
     - Fetch Bibtex information for a paper.
-  
+
+<img width="1425" alt="image" src="https://github.com/user-attachments/assets/cf662a61-3b56-41e2-84fb-871bac5c511c" />
+
 ## Extracted MetaData
 
 The scraped metadata is saved in the following formats:
